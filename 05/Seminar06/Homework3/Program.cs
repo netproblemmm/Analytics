@@ -4,14 +4,7 @@ using System;
 string str = string.Empty;
 str = Console.ReadLine();
 
-if (IsPalindrome(str))
-{
-    Console.WriteLine("Yes");
-}
-else
-{
-    Console.WriteLine("No");
-}
+Console.WriteLine(IsPalindrome(str) ? "Yes": "No");
 
 bool IsPalindrome (string str)
 {
