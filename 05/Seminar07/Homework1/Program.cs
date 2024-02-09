@@ -14,8 +14,8 @@ void ShowNumbers(int start, int end)
         Console.Write(start);
         return; // Ломает всю программу, если попали в этот фрагмент
     }
-    Console.Write(start + " "); // 1 2 3 4 5
+    Console.Write(start + " ");
     ShowNumbers(start + 1, end);
 }
 
-ShowNumbers(m, n); // start = 1, end = N
+ShowNumbers(m, n); // start = m, end = n
