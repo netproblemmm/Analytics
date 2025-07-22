@@ -1,0 +1,6 @@
+path,type,size,parent_dir
+d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_file_1.txt,file,14,d:/Projects/Analytics/22_08/HW_8/test_dir_1
+d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_file_2.txt,file,8,d:/Projects/Analytics/22_08/HW_8/test_dir_1
+d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_level_2_dir,directory,83,d:/Projects/Analytics/22_08/HW_8/test_dir_1
+d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_level_2_dir\test_file_level_2_1.txt,file,19,d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_level_2_dir
+d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_level_2_dir\test_file_level_2_2.txt,file,42,d:/Projects/Analytics/22_08/HW_8/test_dir_1\test_level_2_dir

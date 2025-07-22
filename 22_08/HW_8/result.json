@@ -1,0 +1,32 @@
+[
+    {
+        "path": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_file_1.txt",
+        "type": "file",
+        "size": 14,
+        "parent_dir": "d:/Projects/Analytics/22_08/HW_8/test_dir_1"
+    },
+    {
+        "path": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_file_2.txt",
+        "type": "file",
+        "size": 8,
+        "parent_dir": "d:/Projects/Analytics/22_08/HW_8/test_dir_1"
+    },
+    {
+        "path": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_level_2_dir",
+        "type": "directory",
+        "size": 83,
+        "parent_dir": "d:/Projects/Analytics/22_08/HW_8/test_dir_1"
+    },
+    {
+        "path": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_level_2_dir\\test_file_level_2_1.txt",
+        "type": "file",
+        "size": 19,
+        "parent_dir": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_level_2_dir"
+    },
+    {
+        "path": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_level_2_dir\\test_file_level_2_2.txt",
+        "type": "file",
+        "size": 42,
+        "parent_dir": "d:/Projects/Analytics/22_08/HW_8/test_dir_1\\test_level_2_dir"
+    }
+]
